@@ -17,7 +17,7 @@ header-includes: |
     \fancypagestyle{plain}{
       \fancyhf{}
       \rhead{OOP WS 2020/21}
-      \lhead{U00 | Template}
+      \lhead{U08 | Template}
       \cfoot[C]{\includegraphics[height=2cm]{docs/footer.png}}}
 ---
 
