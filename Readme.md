@@ -37,7 +37,7 @@ Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgaben f
 
 ### Clickable CircleRain
 
-![Clickable CircleRain](docs/redcirclerain.png)
+![Clickable CircleRain](docs/redcirclerain.png){ width=25% }
 
 Wer erinnert sich nicht? Die hübschen, fallenden Kreise aus Übung 6 sind wieder zurück. Diesmal setzen Sie Ihr neu erlangtes Wissen über Maus-Interaktion ein, um Nutzern zu erlauben, alle Kreise rot zu färben. Im Starterpaket ist ein Lösungsvorschlag für die CircleRain-Aufgabe enthalten. Ihre Aufgabe ist es, die `onMousePressed`-Methode zu implementieren und darin zu prüfen, ob ein Kreis getroffen wurde und ihn einzufärben, falls dies der Fall ist. Die Anwendung soll, wenn alle Kreise rot gefärbt wurden, wieder alle Kreise zurücksetzen und dabei neu einfärben bzw. ihnen neue Geschwindigkeiten zuweisen.
 
@@ -52,5 +52,5 @@ In der `GraphicsApp`-Anwendung `MiniGame` müssen Sie den Spielgegenstand, einen
 
 In der Klasse `ClickBall` sind einige Methoden bereits vorgegeben, die Ihnen aus der RandomBouncingBalls-Übung bekannt sein dürften. Zusätzlich implementieren sollen Sie den Richtungswechsel, das Stoppen und die Abfrage, ob der Ball vom Klick getroffen wurde.
 
-![Mini Game](docs/minigame.png)
+![Mini Game](docs/minigame.png){ width=25% }
 
