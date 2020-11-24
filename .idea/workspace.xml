@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51f700f2-c449-4471-8741-0544dc969a5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1kjSXPY0UyYpwKA2k0j8O4W73OD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/GraphicsApp-v1.4.4.jar" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MiniGame">
+    <configuration name="ClickableCircleRain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClickableCircleRain.ClickableCircleRain" />
+      <module name="U06-GraphicsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniGame.MiniGame" />
+      <module name="U06-GraphicsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MiniGame.MiniGame" />
+      <module name="U06-GraphicsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniGame" />
+        <item itemvalue="Application.ClickableCircleRain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="2362" y="203" width="1034" height="846" key="#Project_Structure" timestamp="1606213136194">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2362" y="203" width="1034" height="846" key="#Project_Structure/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213136194" />
+    <state x="2337" y="284" width="1086" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606213165457">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2337" y="284" width="1086" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213165457" />
+    <state x="2611" y="417" width="535" height="418" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606213034946">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2611" y="417" width="535" height="418" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213034946" />
+    <state x="2633" y="368" width="729" height="515" key="FileChooserDialogImpl" timestamp="1606213043907">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2633" y="368" width="729" height="515" key="FileChooserDialogImpl/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213043907" />
+    <state width="1872" height="310" key="GridCell.Tab.0.bottom" timestamp="1606213546103">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="310" key="GridCell.Tab.0.bottom/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
+    <state width="1872" height="310" key="GridCell.Tab.0.center" timestamp="1606213546103">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="310" key="GridCell.Tab.0.center/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
+    <state width="1872" height="310" key="GridCell.Tab.0.left" timestamp="1606213546103">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="310" key="GridCell.Tab.0.left/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
+    <state width="1872" height="310" key="GridCell.Tab.0.right" timestamp="1606213546103">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="310" key="GridCell.Tab.0.right/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
+    <state width="1872" height="382" key="GridCell.Tab.1.bottom" timestamp="1606213509485">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="382" key="GridCell.Tab.1.bottom/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213509485" />
+    <state width="1872" height="382" key="GridCell.Tab.1.center" timestamp="1606213509485">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="382" key="GridCell.Tab.1.center/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213509485" />
+    <state width="1872" height="382" key="GridCell.Tab.1.left" timestamp="1606213509485">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="382" key="GridCell.Tab.1.left/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213509485" />
+    <state width="1872" height="382" key="GridCell.Tab.1.right" timestamp="1606213509485">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1872" height="382" key="GridCell.Tab.1.right/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213509485" />
+    <state x="2368" y="262" key="SettingsEditor" timestamp="1606213152241">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2368" y="262" key="SettingsEditor/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213152241" />
+  </component>
+</project>
