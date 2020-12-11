@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f700f2-c449-4471-8741-0544dc969a5d" name="Default Changelist" comment="" />
+    <list default="true" id="51f700f2-c449-4471-8741-0544dc969a5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/U06-GraphicsApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kjSXPY0UyYpwKA2k0j8O4W73OD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +30,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/GraphicsApp-v1.4.4.jar" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -64,38 +73,54 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51f700f2-c449-4471-8741-0544dc969a5d" name="Default Changelist" comment="" />
+      <created>1607682990625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607682990625</updated>
+    </task>
+    <servers />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2362" y="203" width="1034" height="846" key="#Project_Structure" timestamp="1606213136194">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state x="2362" y="203" width="1034" height="846" key="#Project_Structure/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213136194" />
-    <state x="2337" y="284" width="1086" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606213165457">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state x="322" y="312" width="1086" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607683078928">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state x="322" y="312" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683078928" />
     <state x="2337" y="284" width="1086" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213165457" />
     <state x="2611" y="417" width="535" height="418" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606213034946">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state x="2611" y="417" width="535" height="418" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213034946" />
-    <state x="2633" y="368" width="729" height="515" key="FileChooserDialogImpl" timestamp="1606213043907">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state x="1277" y="429" width="729" height="515" key="FileChooserDialogImpl" timestamp="1607683045388">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state x="1277" y="429" key="FileChooserDialogImpl/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683045388" />
     <state x="2633" y="368" width="729" height="515" key="FileChooserDialogImpl/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213043907" />
-    <state width="1872" height="310" key="GridCell.Tab.0.bottom" timestamp="1606213546103">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state width="1674" height="398" key="GridCell.Tab.0.bottom" timestamp="1607683083535">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683083535" />
     <state width="1872" height="310" key="GridCell.Tab.0.bottom/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
-    <state width="1872" height="310" key="GridCell.Tab.0.center" timestamp="1606213546103">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state width="1674" height="398" key="GridCell.Tab.0.center" timestamp="1607683083535">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.center/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683083535" />
     <state width="1872" height="310" key="GridCell.Tab.0.center/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
-    <state width="1872" height="310" key="GridCell.Tab.0.left" timestamp="1606213546103">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state width="1674" height="398" key="GridCell.Tab.0.left" timestamp="1607683083534">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.left/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683083534" />
     <state width="1872" height="310" key="GridCell.Tab.0.left/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
-    <state width="1872" height="310" key="GridCell.Tab.0.right" timestamp="1606213546103">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state width="1674" height="398" key="GridCell.Tab.0.right" timestamp="1607683083535">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.right/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683083535" />
     <state width="1872" height="310" key="GridCell.Tab.0.right/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213546103" />
     <state width="1872" height="382" key="GridCell.Tab.1.bottom" timestamp="1606213509485">
       <screen x="1920" y="0" width="1920" height="1200" />
@@ -113,9 +138,10 @@
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state width="1872" height="382" key="GridCell.Tab.1.right/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213509485" />
-    <state x="2368" y="262" key="SettingsEditor" timestamp="1606213152241">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state x="803" y="306" key="SettingsEditor" timestamp="1607683049506">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
+    <state x="803" y="306" key="SettingsEditor/0.0.3440.1400/3440.-637.1440.2520@0.0.3440.1400" timestamp="1607683049506" />
     <state x="2368" y="262" key="SettingsEditor/1920.0.1920.1200/0.51.1920.1029@1920.0.1920.1200" timestamp="1606213152241" />
   </component>
 </project>
